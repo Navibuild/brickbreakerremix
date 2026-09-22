@@ -1,6 +1,6 @@
-# Brickbreaker
+# BrickbreakerRemix
 
-A feature-rich brickbreaker clone built in C++ with [SFML 3.x](https://www.sfml-dev.org/).
+A feature-rich brickbreaker remix built in C++ with [SFML 3.x](https://www.sfml-dev.org/).
 
 ## Features
 
