@@ -1,0 +1,31 @@
+# Build outputs
+*.exe
+*.o
+*.obj
+*.out
+brickbreaker
+a.out
+
+# Visual Studio
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+Debug/
+Release/
+x64/
+x86/
+
+# macOS
+.DS_Store
+
+# Linux
+*.d
+
+# CMake (if added later)
+build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
