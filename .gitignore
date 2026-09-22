@@ -6,6 +6,11 @@
 brickbreaker
 a.out
 
+# SFML / third-party DLLs (users download SFML themselves)
+*.dll
+*.lib
+*.pdb
+
 # Visual Studio
 .vs/
 *.vcxproj
